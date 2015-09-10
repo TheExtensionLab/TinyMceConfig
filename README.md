@@ -15,6 +15,10 @@ James Anelay - TheExtensionLab
 
 [@JamesAnelay](https://twitter.com/jamesanelay) - [@TheExtensionLab](https://twitter.com/TheExtensionLab)
 
+License
+-------
+OSL-3.0
+
 Copyright
 ---------
 (c) 2015 TheExtensionLab
