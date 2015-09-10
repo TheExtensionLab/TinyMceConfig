@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<config>
+    <modules>
+        <TheExtensionLab_TinyMceConfig>
+            <version>0.1.0</version>
+        </TheExtensionLab_TinyMceConfig>
+    </modules>
+
+    <adminhtml>
+        <layout>
+            <updates>
+                <theextensionlab_megamenu>
+                    <file>theextensionlab/tinymceconfig.xml</file>
+                </theextensionlab_megamenu>
+            </updates>
+        </layout>
+    </adminhtml>
+</config>

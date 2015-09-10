@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<layout>
+    <default>
+        <reference name="head">
+            <action method="addJs">
+                <script>theextensionlab/tinymceconfig/adminhtml/wysiwyg/tiny_mce/setup-override.js</script>
+            </action>
+        </reference>
+    </default>
+</layout>
