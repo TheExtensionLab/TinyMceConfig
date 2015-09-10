@@ -1,0 +1,21 @@
+{
+  "name":"theextensionlab/tinymceconfig",
+  "type":"magento-module",
+  "description":"Magento TinyMce Settings Update extension",
+  "license": "OSL-3.0",
+  "authors":[
+    {
+      "name":"James Anelay",
+      "email":"james@theextensionlab.com"
+    }
+  ],
+  "require":{
+    "magento-hackathon/magento-composer-installer":"*"
+  },
+  "repositories": [
+    {
+      "type": "composer",
+      "url": "http://packages.firegento.com"
+    }
+  ]
+}
