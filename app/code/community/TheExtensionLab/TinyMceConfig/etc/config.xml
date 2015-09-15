@@ -16,9 +16,9 @@
     <adminhtml>
         <layout>
             <updates>
-                <theextensionlab_megamenu>
+                <theextensionlab_tinymceconfig>
                     <file>theextensionlab/tinymceconfig.xml</file>
-                </theextensionlab_megamenu>
+                </theextensionlab_tinymceconfig>
             </updates>
         </layout>
     </adminhtml>
