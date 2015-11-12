@@ -6,7 +6,9 @@ if(window.tinyMceWysiwygSetup)
 
         var settings = this.originalGetSettings(mode);
 
+        settings.valid_children = "+ul[img]";
         settings.forced_root_block = false;
+
         return settings;
     }
 }
